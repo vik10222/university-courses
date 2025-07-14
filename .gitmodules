@@ -1,0 +1,27 @@
+[submodule "cs4223A2P1"]
+	path = cs4223A2P1
+	url = git@github.com:vik10222/cs4223A2P1.git
+[submodule "cs3235-project"]
+	path = cs3235-project
+	url = git@github.com:vik10222/cs3235-project.git
+[submodule "cs3235-project-fin"]
+	path = cs3235-project-fin
+	url = git@github.com:vik10222/cs3235-project-fin.git
+[submodule "cs3235-final-project"]
+	path = cs3235-final-project
+	url = git@github.com:vik10222/cs3235-final-project.git
+[submodule "Data-V"]
+	path = Data-V
+	url = git@github.com:vik10222/Data-V.git
+[submodule "Elixir-programming"]
+	path = Elixir-programming
+	url = git@github.com:vik10222/Elixir-programming.git
+[submodule "Algorithms-and-data-structures"]
+	path = Algorithms-and-data-structures
+	url = git@github.com:vik10222/Algorithms-and-data-structures.git
+[submodule "KTH-ML-Programming-challenge"]
+	path = KTH-ML-Programming-challenge
+	url = git@github.com:vik10222/KTH-ML-Programming-challenge.git
+[submodule "Bachelor-Thesis"]
+	path = Bachelor-Thesis
+	url = git@github.com:vik10222/Bachelor-Thesis.git
