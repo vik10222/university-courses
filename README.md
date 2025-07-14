@@ -19,3 +19,6 @@ This is the final assignment for CS4223 a masters and Phd Course I took as an ex
 
 **Elixir-programming**
 KTH Programming II course. This focused on dynamic programming in elixir a lot fo the submission determined grade so was only able to submit the first 2. Recieved Full marks in the course.
+
+**Algorithms-and-data-structures**
+Generic CS Algorithms-and-data-structures course. Recieved highest grade A
