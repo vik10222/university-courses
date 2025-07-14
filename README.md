@@ -1,5 +1,5 @@
 # University Coursework
-Unforntunately I had to make a few of these sub‑modules private
+Unforntunately I had to make a few of these sub‑modules private due to either NDA's or the fact that some parts are solutions to the courses examinations still used in today's courses
 
 Bachelor-Thesis (NDA)
 
